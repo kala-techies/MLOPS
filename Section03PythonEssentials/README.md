@@ -20,4 +20,14 @@ In the `PythonLab02` folder, you'll find:
 
 - **Syntax and Semantics in Python**
 
+## PythonLab03 overview:
+In the `PythonLab03` folder, you'll find:
+
+- **Introduction to Variables**
+- **Naming Conventions**
+- **Understanding variable types**
+- **Type checking and Conversion**
+- **Dynamic Typing**
+- **User Input**
+
 ## Happy Learning!
