@@ -30,4 +30,10 @@ In the `PythonLab03` folder, you'll find:
 - **Dynamic Typing**
 - **User Input**
 
+## PythonLab04 overview:
+In the `PythonLab04` folder, you'll find:
+- **Operators**
+- **DataTypes**
+- **ImplementationOfProject(calc)**
+
 ## Happy Learning!
